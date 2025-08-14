@@ -55,4 +55,4 @@ npm install
 npm start
 ```
 
-> The frontend proxies `/api` requests to `http://localhost:3001`.
+> The frontend proxies `/api` requests to `http://localhost:5000`.
